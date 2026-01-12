@@ -11,8 +11,10 @@ This system can be used for traffic monitoring, smart city projects, and transpo
 ### 🔸 Vehicle Detection & Counting in Action  
 <!-- <video src="https://github.com/amadokjo/vehicle-detection-streamlit/blob/main/output.mp4" width="400" controls></video> -->
 
-<video src="https://github.com/amadokjo/vehicle-detection-streamlit/blob/main/output.gif" width="400" controls></video>
+<!-- <video src="https://github.com/amadokjo/vehicle-detection-streamlit/blob/main/output.gif" width="400" controls></video> -->
 
+### 🔸 Vehicle Detection & Counting in Action
+![Demo Animation](https://github.com/amadokjo/vehicle-detection-streamlit/raw/main/output.gif)
 ---
 
 ## 🔴 Live Demo
